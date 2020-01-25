@@ -7,7 +7,6 @@ const PlayerCards = (props) => {
             <h2>{props.name}</h2>
             <p>{props.country}</p>
             <p>{props.searches}</p>
-            <p>{props.id}</p>
         </div>
     )
 }
