@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Player Card 1`] = `
+<div>
+  <h2 />
+  <p />
+  <p />
+</div>
+`;
